@@ -4,7 +4,7 @@
 <h1 align="center">Hi visitor, I'm Fahmi Mardiansyah!</h1>
 <p align="center">
 </p>
-<h2 id="web-developer-js-nodejs--python">UI/UX Designer & Front-End Developer (JS, NodeJS & Python)</h2>
+<h2 id="web-developer-js-nodejs--python">UI/UX Designer & Front-End Developer</h2>
 <p>🎨 Passionate about UI/UX design, front-end development, and blending creative urban street styles with clean code. Always exploring, always designing.</p>
 <h2 align="center"><u>Personal Details</u></h2>
 <p align="center">
