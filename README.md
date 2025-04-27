@@ -1,15 +1,11 @@
 <p>
   <img src="assets/1.png" alt="Fahmi Mardiansyah - London Streetwear" style="width:100%;">
 </p>
-
-<h2 id="web-developer-js-nodejs--python">UI/UX Designer & Front-End Developer (JS, NodeJS & Python)</h2>
-
-<p>🎨 Passionate about UI/UX design, front-end development, and blending creative urban street styles with clean code. Always exploring, always designing.</p>
-
 <h1 align="center">Hi visitor, I'm Fahmi Mardiansyah!</h1>
 <p align="center">
 </p>
-<h3 align="center">Former student with a passion for becoming a UI/UX Designer and Front-End Developer</h3>
+<h2 id="web-developer-js-nodejs--python">UI/UX Designer & Front-End Developer (JS, NodeJS & Python)</h2>
+<p>🎨 Passionate about UI/UX design, front-end development, and blending creative urban street styles with clean code. Always exploring, always designing.</p>
 <h2 align="center"><u>Personal Details</u></h2>
 <p align="center">
 </p><ul>
