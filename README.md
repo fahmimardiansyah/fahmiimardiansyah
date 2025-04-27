@@ -10,7 +10,7 @@
 <p align="center">
 </p><ul>
 <li>
-<p>I’m trying to learn HTML, CSS, JavaScript, PHP, etc.</p>
+<p>I’m trying to learn HTML, CSS, JavaScript, etc.</p>
 </li>
 <li>
 <p>My hobby is Designing, listening music.</p>
