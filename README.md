@@ -1,8 +1,11 @@
 <p>
   <img src="assets/1.png" alt="Fahmi Mardiansyah - London Streetwear" style="width:100%;">
 </p>
-<h2 id="web-developer-js-nodejs--python">UI/UX Designer & Front-End Dev (JS, NodeJS & Python)</h2>
-<p>🔭 Currently working at Global, a British media company. I work with great people and we are using great technologies!</p>
+
+<h2 id="web-developer-js-nodejs--python">UI/UX Designer & Front-End Developer (JS, NodeJS & Python)</h2>
+
+<p>🎨 Passionate about UI/UX design, front-end development, and blending creative urban street styles with clean code. Always exploring, always designing.</p>
+
 <h1 align="center">Hi visitor, I'm Fahmi Mardiansyah!</h1>
 <p align="center">
 </p>
